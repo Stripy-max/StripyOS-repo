@@ -1,7 +1,7 @@
 {
   "gimp": {
-    "version": "2.10.36",
-    "url": "https://sourceforge.net/projects/stripyos/files/gimp.tar.xz/download",
+    "version": "2.10",
+    "url": "https://sourceforge.net/projects/Stripy-Packages/files/gimp.tar.xz/download",
     "description": "GNU Image Manipulation Program"
   }
 }
