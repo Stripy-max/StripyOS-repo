@@ -1,7 +1,7 @@
 {
-  "vlc": {
-    "version": "3.0.20",
-    "url": "https://github.com/Stripy-max/stripy-repo/releases/download/v1.0.0/vlc.tar.xz",
-    "description": "VLC Media Player"
+  "gimp": {
+    "version": "2.10.36",
+    "url": "https://downloads.sourceforge.net/project/Stripy-Packages/gimp.tar.xz",
+    "description": "GNU Image Manipulation Program"
   }
 }
